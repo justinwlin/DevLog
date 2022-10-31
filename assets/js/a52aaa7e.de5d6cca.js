@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjustin_dev_log=self.webpackChunkjustin_dev_log||[]).push([[152],{3537:e=>{e.exports=JSON.parse('{"permalink":"/DevBlog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
